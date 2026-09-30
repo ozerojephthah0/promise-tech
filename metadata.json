@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow - Themed To-Do & Smart Reminders",
+  "description": "Customizable to-do list with vibrant theme palettes, dark mode, confetti rewards, overdue gentle alerts, category filtering, and scheduled push notification reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
